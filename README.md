@@ -22,3 +22,5 @@ A list of code kata instructions (in the /katas folder) compiled by [@ardalis](h
 # PDFs #
 
 For printing it is recommended to use the PDF versions. PDFs created courtesy of (http://www.markdowntopdf.com/).
+
+Update README file to insert this line.
